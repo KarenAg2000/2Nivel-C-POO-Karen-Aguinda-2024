@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb82c0d7-bce8-4e75-937b-79e6dab44101" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="KAREN AGUINDA &lt;jaelakaren2000@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KarenAg2000/2Nivel-C-POO-Karen-Aguinda-2024.git&quot;,
+    &quot;accountId&quot;: &quot;14ffb98a-2cd9-4560-9fe3-75d04afb5b18&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2iDg8ooHRkArI3IxuJbVzmi3P6g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Convertir unidades de medida.executor": "Run",
+    "Python.EjemplosMundoReal_POO.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/KAREN AGUINDA/PycharmProjects/2Nivel-C-POO-Karen-Aguinda-2024/semana 04/EjemplosMundoReal_POO.py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "two.files.diff.last.used.file": "C:/Users/KAREN AGUINDA/PycharmProjects/2Nivel-C-POO-Karen-Aguinda-2024/semana 04/EjemplosMundoReal_POO.py",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KAREN AGUINDA\PycharmProjects\2Nivel-C-POO-Karen-Aguinda-2024\semana 5" />
+      <recent name="C:\Users\KAREN AGUINDA\PycharmProjects\2Nivel-C-POO-Karen-Aguinda-2024\semana 04" />
+      <recent name="C:\Users\KAREN AGUINDA\PycharmProjects\2Nivel-C-POO-Karen-Aguinda-2024\semana 1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb82c0d7-bce8-4e75-937b-79e6dab44101" name="Changes" comment="" />
+      <created>1719030404897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719030404897</updated>
+      <workItem from="1719030406216" duration="938000" />
+      <workItem from="1719031499273" duration="12000" />
+      <workItem from="1719066441539" duration="890000" />
+      <workItem from="1719500320736" duration="640000" />
+      <workItem from="1719503851591" duration="3511000" />
+      <workItem from="1719507401045" duration="1481000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Actualizar nombre del cliente a Karen en el sistema de gestión de tienda&quot;">
+      <option name="closed" value="true" />
+      <created>1719067081929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719067081929</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Actualizar nombre del cliente a Karen en el sistema de gestión de tienda&quot;">
+      <option name="closed" value="true" />
+      <created>1719067145673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719067145673</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;&quot;&quot; Programa para convertir unidades de longitud de metros a otras unidades (kilómetros, hectómetros, decámetros, decímetros,&#10;centímetros, milímetros).&#10;Funcionalidad: Permite ingresar una longitud en metros y obtener la conversión a otras unidades de longitud.&quot;&quot;&quot;">
+      <option name="closed" value="true" />
+      <created>1719504984911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719504984911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;&quot;&quot; Programa para convertir unidades de longitud de metros a otras unidades (kilómetros, hectómetros, decámetros, decímetros,&#10;centímetros, milímetros).&#10;Funcionalidad: Permite ingresar una longitud en metros y obtener la conversión a otras unidades de longitud.&quot;&quot;&quot;">
+      <option name="closed" value="true" />
+      <created>1719505007173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719505007173</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Actualizar nombre del cliente a Miguel en el sistema de gestión de tienda&quot;">
+      <option name="closed" value="true" />
+      <created>1719505201002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719505201002</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;Actualizar nombre del cliente a Karen en el sistema de gestión de tienda&quot;">
+      <option name="closed" value="true" />
+      <created>1719505658360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719505658360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Actualizar nombre del cliente a Karen en el sistema de gestión de tienda&quot;">
+      <option name="closed" value="true" />
+      <created>1719505676906</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719505676906</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Clases">
+      <option name="closed" value="true" />
+      <created>1719505793337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719505793337</updated>
+    </task>
+    <task id="LOCAL-00009" summary="elemplo 1">
+      <option name="closed" value="true" />
+      <created>1719505941569</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719505941569</updated>
+    </task>
+    <task id="LOCAL-00010" summary="elemplo 1">
+      <option name="closed" value="true" />
+      <created>1719506495257</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719506495257</updated>
+    </task>
+    <task id="LOCAL-00011" summary="elemplo 1">
+      <option name="closed" value="true" />
+      <created>1719506811752</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719506811752</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;&quot;&quot;&#10;Programa para convertir unidades de longitud de metros a otras unidades (kilómetros, hectómetros, decámetros, decímetros,&#10;centímetros, milímetros).&#10;Funcionalidad: Permite ingresar una longitud en metros y obtener la conversión a otras unidades de longitud.&#10;&quot;&quot;&quot;">
+      <option name="closed" value="true" />
+      <created>1719506825401</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719506825401</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;&quot;&quot;&#10;Programa para convertir unidades de longitud de metros a otras unidades (kilómetros, hectómetros, decámetros, decímetros,&#10;centímetros, milímetros).&#10;Funcionalidad: Permite ingresar una longitud en metros y obtener la conversión a otras unidades de longitud.&#10;&quot;&quot;&quot;">
+      <option name="closed" value="true" />
+      <created>1719506848805</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719506848805</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&quot;&quot;&quot;&#10;Programa para convertir unidades de longitud de metros a otras unidades (kilómetros, hectómetros, decámetros, decímetros,&#10;centímetros, milímetros).&#10;Funcionalidad: Permite ingresar una longitud en metros y obtener la conversión a otras unidades de longitud.&#10;&quot;&quot;&quot;">
+      <option name="closed" value="true" />
+      <created>1719507016978</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719507016978</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1719507835521</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719507835521</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1719508477985</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719508477985</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1719508502964</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719508502964</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;&quot;&quot; Programa para convertir unidades de longitud de metros a otras unidades (kilómetros, hectómetros, decámetros, decímetros,&#10;centímetros, milímetros).&#10;Funcionalidad: Permite ingresar una longitud en metros y obtener la conversión a otras unidades de longitud.&quot;&quot;&quot;" />
+    <MESSAGE value="&quot;Actualizar nombre del cliente a Miguel en el sistema de gestión de tienda&quot;" />
+    <MESSAGE value="&quot;Actualizar nombre del cliente a Karen en el sistema de gestión de tienda&quot;" />
+    <MESSAGE value="Clases" />
+    <MESSAGE value="elemplo 1" />
+    <MESSAGE value="&quot;&quot;&quot;&#10;Programa para convertir unidades de longitud de metros a otras unidades (kilómetros, hectómetros, decámetros, decímetros,&#10;centímetros, milímetros).&#10;Funcionalidad: Permite ingresar una longitud en metros y obtener la conversión a otras unidades de longitud.&#10;&quot;&quot;&quot;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2Nivel_C_POO_Karen_Aguinda_2024$Convertir_unidades_de_medida.coverage" NAME="Convertir unidades de medida Coverage Results" MODIFIED="1719506879506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 05" />
+    <SUITE FILE_PATH="coverage/2Nivel_C_POO_Karen_Aguinda_2024$EjemplosMundoReal_POO.coverage" NAME="EjemplosMundoReal_POO Coverage Results" MODIFIED="1719508346648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 04" />
+  </component>
+</project>
